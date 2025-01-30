@@ -19,9 +19,17 @@ I am a graduate of UCD with a degree in Data and Computational Science.
 
 ### Projects
 
-You can check my projects -[here]().
+You can check my projects [here](https://github.com/shivangitechie/My-Projects).
 
-### Articles and Publications
+### :writing_hand: Articles and Publications
+
+- [Object Detection Model](https://www.indusmic.com/post/want-to-train-your-first-object-detection-model)
+- [Python Implementation of Brent Function](https://www.indusmic.com/post/brent-function)
+- [Python Implementation of Bartels Conn Function](https://www.indusmic.com/post/bartels-conn-function)
+- [Python Implementation of Xin She Yang N4 Function](https://www.indusmic.com/post/xin-she-yang-n-4-function)
+- [Python Implementation of Xin She Yang Function](https://www.indusmic.com/post/xin-she-yang-function)
+- [Python Implementation of Shubert N4 Function](https://www.indusmic.com/post/python-implementation-of-shubert-n-4-function)
+- [Research Paper on Surface plasmon resonance in metal nanospheres explained with LCR circuits](https://pubs.rsc.org/en/content/articlelanding/2023/CP/D3CP00589E)
 
 
 
