@@ -10,18 +10,18 @@ I am a graduate of UCD with a degree in Data and Computational Science.
 - Dashboards using Power BI.
 - Data Structures and Algorithms in C/C++.
 
-### Tools
+### 🛠️: Tools
 
 - R, Python, C, C++, MATLAB.
 - Jupyter Notebook, Google Colab, Spyder, VS Code, RStudio.
 - SQL, Excel.
 - Power BI.
 
-### Projects
+### 💻: Projects
 
 You can check my projects [here](https://github.com/shivangitechie/My-Projects).
 
-### :writing_hand: Articles and Publications
+### 📝: Articles and Publications
 
 - [Object Detection Model](https://www.indusmic.com/post/want-to-train-your-first-object-detection-model)
 - [Python Implementation of Brent Function](https://www.indusmic.com/post/brent-function)
