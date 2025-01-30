@@ -19,7 +19,11 @@ I am a graduate of UCD with a degree in Data and Computational Science.
 
 ### Projects
 
-You can check my projects here.
+You can check my projects -[here]().
+
+### Articles and Publications
+
+
 
 <!--
 **shivangitechie/shivangitechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
