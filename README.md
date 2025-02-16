@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Cover Image](cover.png)
-I am a graduate of UCD with a degree in Data and Computational Science. 
+I am a graduate of UCD with a Master's degree in Data and Computational Science. 
 
 ### Skills
 
